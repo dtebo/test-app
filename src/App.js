@@ -15,7 +15,8 @@ function App() {
   return (
     <main>
       <h1>Create React App + Go API</h1>
-      <h2>This is the beginning</h2>
+      <h2>This is Darren's Version</h2>
+      <h3>More content here</h3>
     </main>
   );
 }
